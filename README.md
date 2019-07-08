@@ -1,3 +1,5 @@
-# Raspbarry-Pi-Self-driving-Car
+# RaspbarryPi Self-driving Car
 
-![Alt text](RaspiCarDocument/Img/pista.jpg?raw=true "Title")
+This proyect is an autonomus car that use a RPI 3, camera and opencv to achive self-driving in a track.
+
+![Alt text](RaspiCar%20Document/Img/pista.jpg?raw=true "Title")
